@@ -29,9 +29,15 @@ This project demonstrates the core functionality of database-driven web apps —
 5. Delete items using `delete.php`.
 
 ---
+---
 
-## 📸 Screenshot
-*(Add a screenshot of your app here if available)*  
-Example:
-```bash
-![CRUD App Screenshot](screenshot.png)
+## 💡 Purpose
+This CRUD App was created as a learning project to understand database operations and backend logic using PHP and MySQL.
+
+---
+
+## 👤 Author
+**Mohamed Adel**  
+🔗 [GitHub Profile](https://github.com/mohamed-adel674)  
+📧 madelelmorshdy@gmail.com
+
